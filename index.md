@@ -6,9 +6,9 @@ National Institute of Diagnostics and Vaccine Development in Infectious Diseases
 
 Master's degree
 
-### Markdown
+### Brief Bio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Master of Engineering in Xiamen University. My research interests are clustering/denoising of Cryo-EM images.
 
 ```markdown
 Syntax highlighted code block
